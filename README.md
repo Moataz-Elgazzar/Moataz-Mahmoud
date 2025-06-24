@@ -25,9 +25,9 @@ I'm a mechanical engineer with a passion for programming and continuous learning
 
 ## 📂 Featured Projects
 
-- 🔧 **[C++ OOP Projects](https://github.com/MoatazMahmoud)** – A collection of object-oriented programming examples and small systems.
-- 📊 **[Data Structures Practice](https://github.com/MoatazMahmoud)** – Implementations of common data structures in C++.
-
+- 🔧 **[C++](https://github.com/Moataz-Elgazzar/Basic)** – A collection of small systems.
+- 📊 **[Data Structures Practice](https://github.com/Moataz-Elgazzar/Data-structures)** – Implementations of common data structures in C++.
+- 📊 **[OOP Projects](https://github.com/Moataz-Elgazzar/OOP)** – A collection of object-oriented programming examples.
 ---
 
 ## 🌐 Connect with Me
