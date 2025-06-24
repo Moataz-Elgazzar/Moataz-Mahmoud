@@ -32,9 +32,8 @@ I'm a mechanical engineer with a passion for programming and continuous learning
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/moatazmahmoud)
-- 📊 [Codeforces Profile](https://codeforces.com/profile/MoatazMahmoud)
-- 📬 moataz@example.com *(Replace with your real email if you want)*
+- 💼 [LinkedIn]([www.linkedin.com/in/moataz-mahmoud-a2a548a6](https://www.linkedin.com/in/moataz-mahmoud-a2a548a6/))
+- 📊 [Codeforces Profile]([https://codeforces.com/profile/MoatazMahmoud](https://codeforces.com/profile/El-Gazzar))
 
 ---
 
